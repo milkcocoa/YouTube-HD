@@ -43,6 +43,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://github.com/milkcocoa/YouTube-HD/raw/master/Update%20Manifest.plist</string>
 	<key>Website</key>
 	<string>http://www.cocoalife.net/</string>
 </dict>
