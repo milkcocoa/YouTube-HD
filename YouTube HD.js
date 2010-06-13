@@ -1,7 +1,7 @@
 safari.self.addEventListener('message', function(event) {
     // Receive the parameter from Global Page
     var parameter = event.message;
-    if (document.URL.indexOf("&fmt=") == -1) {
+    if (document.URL.match(/watch.+&fmt=\d+/) == null) {
         location.replace(document.URL + "&fmt=" + parameter);
     }
 }, false);
