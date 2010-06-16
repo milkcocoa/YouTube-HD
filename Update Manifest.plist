@@ -9,9 +9,9 @@ CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Prop
        <key>Developer Identifier</key>
        <string>2BU8D6E44H</string>
        <key>CFBundleVersion</key>
-       <string>1.0.1</string>
+       <string>1.0.2</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.0.1</string>
+       <string>1.0.2</string>
        <key>URL</key>
        <string>http://github.com/downloads/milkcocoa/YouTube-HD/YouTube-HD.safariextz</string>
      </dict>
